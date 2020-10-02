@@ -28,7 +28,7 @@ Connect with other Hacktoberfest participants by using @DigitalOcean, @hacktober
 - If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate.
 - This year, the first 70,000 participants who successfully complete the challenge will be eligible to receive a prize.
 
-## Created sub-folders to upload your code in any language or ideas.🗂️
+## Created sub-folders to upload/commit your code in any language or ideas.🗂️
 
 ## Standards💻
 In line with Hacktoberfest value #2 (Quantity is fun, quality is key), we have provided examples of pull requests that we consider to be low-quality contributions (which we discourage).
