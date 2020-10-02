@@ -8,7 +8,7 @@ __Manav Rachna University Hacktober Fest 2020__
 - [About](#about)
 - [Steps and Rewards](#steps-and-rewards)
 - [What to do??](#what-to-do)
-  * [How to contribute to this project](##how-to-contribute-to-this-project)
+  * [How to contribute to this project](#how-to-contribute-to-this-project)
 - [Standards](#standards)
 
 <!-- tocstop -->
