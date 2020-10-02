@@ -21,8 +21,8 @@ Manav Rachna University Hacktober Fest 2020
 ## Steps and Rewards🎁
 - Step1: Sign up on the [Hacktoberfest site](https://hacktoberfest.digitalocean.com). To qualify for the official limited edition Hacktoberfest shirt, you must register and make four pull requests between October 1-31.
 - Step2: After the first step, register yourself and check in at [Project MRU, MLH site](https://organize.mlh.io/participants/events/4772-project-mru-hacktober-fest)
-- Step3: Join our [Slack channel](http://bit.ly/projectmru-slack) for further event details 
-Connect with other Hacktoberfest participants by using @DigitalOcean, @hacktoberfest, #hacktoberfest on your social media platform of choice.
+- Step3: Join our [Slack channel](http://bit.ly/projectmru-slack) for further event details.
+- Connect with other Hacktoberfest participants by using @DigitalOcean, @hacktoberfest, #hacktoberfest on your social media platform of choice.
 - New to DigitalOcean? Receive USD $100 in infrastructure credit at https://do.co/hacktoberfest100.
 
 ## What to do??💪
