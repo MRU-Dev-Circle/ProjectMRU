@@ -1,6 +1,8 @@
 # Project MRU💻🏡
 Manav Rachna University Hacktober Fest 2020
 
+![3](https://user-images.githubusercontent.com/38182673/94948866-a9fb7c80-04fd-11eb-8b5c-3bca46cc1f5b.png)
+
 <!-- toc -->
 
 - [About](#about)
