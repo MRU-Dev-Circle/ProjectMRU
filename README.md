@@ -1,5 +1,5 @@
 # Project MRU💻🏡
-Manav Rachna University Hacktober Fest 2020
+__Manav Rachna University Hacktober Fest 2020__
 
 ![3](https://user-images.githubusercontent.com/38182673/94948866-a9fb7c80-04fd-11eb-8b5c-3bca46cc1f5b.png)
 
@@ -8,12 +8,13 @@ Manav Rachna University Hacktober Fest 2020
 - [About](#about)
 - [Steps and Rewards](#steps-and-rewards)
 - [What to do??](#what-to-do)
+ * [How to contribute to this project](#how-to-contribute-to-this-project)
 - [Standards](#standards)
 
 <!-- tocstop -->
 
 ## About💬
-- Manav Rachna University hosting an online event Project MRU(Hacktoberfest) brought to you by DigitalOcean in partnership with Dev & Intel — is a month-long celebration of open-source software.
+- __Manav Rachna University__ hosting an online event __Project MRU (Hacktoberfest 2020)__ brought to you by DigitalOcean in partnership with Dev & Intel — is a month-long celebration of open-source software.
 - Maintainers are invited to guide would-be contributors towards issues that will help move the project forward, and contributors get the opportunity to give back to both projects they like and others they've just discovered.
 
 # ✨No contribution is too small✨
@@ -78,7 +79,7 @@ Add your name to the `CONTRIBUTORS.md` file using the below convention:
 ```
 
 #### 2. Add a profile page
-Add a `Your_Name.md` file to the `profiles` directory. Use any combination of content and Markdown you'd like. Here is an example:
+Add a `Your_Name.md` file to the `Profiles` directory. Use any combination of content and Markdown you'd like. Here is an example:
 
 ```markdown
 # Your Name
@@ -105,7 +106,7 @@ Your School
 ```
 
 ### 3. Create a `Hello, World!` Script
-Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
+Add a `hello_world_yourusername.xx` script to the `Scripts` directory in any language of your choice! Here is an example:
 
 ```Python
 // LANGUAGE: Python
@@ -115,7 +116,7 @@ Add a `hello_world_yourusername.xx` script to the `scripts` directory in any lan
 print('Hello, python!')
 ```
 
-Name the file `hello_world_yourusername.xx`. e.g., `hello_world_minnonymous.js`
+Name the file `hello_world_yourusername.xx`. e.g., `hello_world_minnonymous.py`
 
 ## Created sub-folders to upload/commit your code in any language or ideas.🗂️
 
