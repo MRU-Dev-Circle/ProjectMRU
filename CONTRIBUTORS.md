@@ -1,4 +1,4 @@
-##### Name: Minhajul Hossain(https://github.com/minnonymous/)
+##### Name: c0sm0s(https://github.com/minnonymous/)
 - Place: New Delhi, India
 - Bio: void();
 - GitHub: minnonymous(https://github.com/minnonymous/)
