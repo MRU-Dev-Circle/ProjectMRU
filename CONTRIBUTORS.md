@@ -3,10 +3,10 @@
 - Bio: void();
 - GitHub: minnonymous(https://github.com/minnonymous/)
 
-##### Name: Vansh Bisht(https://github.com/Cybberghost999/)
+##### Name: Vansh Bisht(https://github.com/Cyberghost999/)
 - Place: Faridabad, Haryana, India
 - Bio: void();
-- GitHub: Cyberghost999(https://github.com/Cybberghost999/)
+- GitHub: Cyberghost999(https://github.com/Cyberghost999/)
 
 ##### Name: [YOUR NAME](GitHub link)
 - Place: City, State, Country
