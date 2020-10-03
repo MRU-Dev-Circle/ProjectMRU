@@ -110,7 +110,7 @@ Add a `hello_world_yourusername.xx` script to the `Scripts` directory in any lan
 
 ```Python
 // LANGUAGE: Python
-// AUTHOR: Minhajul Hossain
+// AUTHOR: c0sm0s
 // GITHUB: https://github.com/minnonymous
 
 print('Hello, python!')
