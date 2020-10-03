@@ -6,7 +6,7 @@
 ##### Name: [Vansh Bisht](GitHub link)
 - Place: Faridabad, Haryana, India
 - Bio: void();
-- GitHub: [Cyberghost](https://github.com/Cybberghost999/)
+- GitHub: [Cyberghost999](https://github.com/Cybberghost999/)
 
 ##### Name: [YOUR NAME](GitHub link)
 - Place: City, State, Country
