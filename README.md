@@ -27,35 +27,35 @@ __Manav Rachna University Hacktober Fest 2020__
 - New to DigitalOcean? Receive USD $100 in infrastructure credit at https://do.co/hacktoberfest100.
 
 ## What to do??💪
-- To earn your Hacktoberfest tee or tree reward, you must register and make four valid pull requests (PRs) between October 1-31 (in any time zone). - PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. 
+- To earn your Hacktoberfest tee or to plant a tree, you must register and make four valid pull requests (PRs) between October 1-31 (in any time zone). - PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. 
 - If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate.
 - This year, the first 70,000 participants who successfully complete the challenge will be eligible to receive a prize.
 
 ### How to contribute to this project
 Here are 3 quick and painless ways to contribute to this project:
 
-* Add your name to the `CONTRIBUTORS.md` file
-* Add a profile page to the `profiles` directory
-* Create a simple "Hello, World" script in a language of your choice
+* Add your name to the `CONTRIBUTORS.md` file.
+* Add a profile page to the `profiles` directory.
+* Create a simple "Hello, World" script in a language of your choice.
 
 Choose one or all 3, make a pull request for your work and wait for it to be merged!
 
 ### Getting started
-* Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
-* Clone your fork down to your local machine
+* Fork this repository (Click the Fork button in the top right of this page, click your Profile Image).
+* Clone your fork down to your local machine.
 
 ```markdown
 git clone https://github.com/your-username/ProjectMRU.git
 ```
 
-* Create a branch
+* Create a branch.
 
 ```markdown
 git checkout -b branch-name
 ```
 
-* Make your changes (choose from any task below)
-* Commit and push
+* Make your changes (choose from any task below).
+* Commit and push.
 
 ```markdown
 git add .
@@ -63,7 +63,7 @@ git commit -m 'Commit message'
 git push origin branch-name
 ```
 
-* Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
+* Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo).
 * Wait for your PR review and merge approval!
 * __Star this repository__ if you had fun!
 
