@@ -21,3 +21,8 @@
 - Place: City, State, Country
 - Bio: Who are you?
 - GitHub: [GitHub account name](GitHub link)
+
+#### Name: [Advait Dhingra](https://github.com/AdvaitDhingra)
+- Place: Germany
+-Bio: Nah, I prefer physics
+-Github: [AdvaitDhingra](https://github.com/AdvaitDhingra)
