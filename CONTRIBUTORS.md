@@ -24,11 +24,11 @@
 - Bio: Who are you?
 - GitHub: [c0sm0s0](https://github.com/c0sm0s0)
 
-##### Name: [YOUR NAME](GitHub link)
+##### Name: [Chandni Bhatia](https://github.com/Chandni-bhatia)
 
-- Place: City, State, Country
-- Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
+- Place: Gurugram, Haryana, India
+- Bio: student 
+- GitHub: [Chandni-bhatia](https://github.com/Chandni-bhatia)
 
 ##### Name: [YOUR NAME](GitHub link)
 
