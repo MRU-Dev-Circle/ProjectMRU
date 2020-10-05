@@ -84,25 +84,15 @@ Add a `Your_Name.md` file to the `Profiles` directory. Use any combination of co
 
 ```markdown
 # Your Name
-
 ### Location
-
 Your City/Country
-
 ### Academics
-
 Your School
-
 ### Interests
-
 - Some Things You Like
-
 ### Projects
-
 - [My Project](GitHub Link) Short Description
-
 ### Profile Link
-
 [Your Name](GitHub Link)
 ```
 
