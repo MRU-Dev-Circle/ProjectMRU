@@ -4,7 +4,7 @@
 - Place: City, State, Country
 - Bio: Who are you?
 - GitHub: [GitHub account name](GitHub link)
-## --
+
 ### DONT REMOVE ANYONE JUST ADD YOURS
 
 
