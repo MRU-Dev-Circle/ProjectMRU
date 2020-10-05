@@ -1,5 +1,5 @@
-#include <iostream>
-int main() {
-    std::cout << "Hello CPP!";
-    return 0;
+#include <iostream.h>
+void main() 
+{
+    cout<<"Hello World";
 }
