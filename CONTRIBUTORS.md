@@ -18,11 +18,11 @@
 - Bio: Full-stack developer - Python and JavaScript
 - GitHub: [Destaq](https://www.github.com/Destaq)
 
-##### Name: [YOUR NAME](GitHub link)
+##### Name: [c0sm0s0](https://github.com/c0sm0s0)
 
 - Place: City, State, Country
 - Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
+- GitHub: [c0sm0s0](https://github.com/c0sm0s0)
 
 ##### Name: [YOUR NAME](GitHub link)
 
