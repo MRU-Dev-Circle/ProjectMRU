@@ -10,19 +10,14 @@
 - Bio: Hacker of future
 - GitHub: Parthasarathi-EXT1NT(https://github.com/Parthasarathi-EXT1NT)
 
+##### Name: [Simon Ilincev](https://www.github.com/Destaq)
+
+- Place: Prague, Czech Republic
+- Bio: Full-stack developer - Python and JavaScript
+- GitHub: [Destaq](https://www.github.com/Destaq)
+
 ##### Name: [YOUR NAME](GitHub link)
 
 - Place: City, State, Country
 - Bio: Who are you?
 - GitHub: [GitHub account name](GitHub link)
-
-##### Name: [YOUR NAME](GitHub link)
-
-- Place: City, State, Country
-- Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
-
-#### Name: [Advait Dhingra](https://github.com/AdvaitDhingra)
-- Place: Germany
--Bio: Nah, I prefer physics
--Github: [AdvaitDhingra](https://github.com/AdvaitDhingra)
