@@ -1,4 +1,12 @@
-##### DONT REMOVE ANYONE JUST ADD YOURS
+## USE THIS FORMAT
+##### Name: [YOUR NAME](GitHub link)
+
+- Place: City, State, Country
+- Bio: Who are you?
+- GitHub: [GitHub account name](GitHub link)
+## --
+### DONT REMOVE ANYONE JUST ADD YOURS
+
 
 ##### Name: c0sm0s(https://github.com/minnonymous/)
 
@@ -30,24 +38,10 @@
 - Bio: student 
 - GitHub: [Chandni-bhatia](https://github.com/Chandni-bhatia)
 
-##### Name: [YOUR NAME](GitHub link)
-
-- Place: City, State, Country
-- Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
-
-##### Name: [YOUR NAME](GitHub link)
-
-- Place: City, State, Country
-- Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
-
-##### Name: [YOUR NAME](GitHub link)
-
-- Place: City, State, Country
-- Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
-
+#### Name: [Advait Dhingra](https://github.com/AdvaitDhingra)
+- Place: Germany
+-Bio: Nah, I prefer physics
+-Github: [AdvaitDhingra](https://github.com/AdvaitDhingra)
 
 ##### Name: [zerodays](https://github.com/zerodays39/)
 
