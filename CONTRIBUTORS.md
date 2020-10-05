@@ -1,3 +1,5 @@
+##### DONT REMOVE ANYONE JUST ADD YOURS
+
 ##### Name: c0sm0s(https://github.com/minnonymous/)
 
 - Place: New Delhi, India
@@ -15,6 +17,30 @@
 - Place: Prague, Czech Republic
 - Bio: Full-stack developer - Python and JavaScript
 - GitHub: [Destaq](https://www.github.com/Destaq)
+
+##### Name: [YOUR NAME](GitHub link)
+
+- Place: City, State, Country
+- Bio: Who are you?
+- GitHub: [GitHub account name](GitHub link)
+
+##### Name: [YOUR NAME](GitHub link)
+
+- Place: City, State, Country
+- Bio: Who are you?
+- GitHub: [GitHub account name](GitHub link)
+
+##### Name: [YOUR NAME](GitHub link)
+
+- Place: City, State, Country
+- Bio: Who are you?
+- GitHub: [GitHub account name](GitHub link)
+
+##### Name: [YOUR NAME](GitHub link)
+
+- Place: City, State, Country
+- Bio: Who are you?
+- GitHub: [GitHub account name](GitHub link)
 
 ##### Name: [YOUR NAME](GitHub link)
 
