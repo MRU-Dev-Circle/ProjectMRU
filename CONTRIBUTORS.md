@@ -40,8 +40,8 @@
 
 #### Name: [Advait Dhingra](https://github.com/AdvaitDhingra)
 - Place: Germany
--Bio: Nah, I prefer physics
--Github: [AdvaitDhingra](https://github.com/AdvaitDhingra)
+- Bio: Nah, I prefer physics
+- Github: [AdvaitDhingra](https://github.com/AdvaitDhingra)
 
 ##### Name: [zerodays](https://github.com/zerodays39/)
 
