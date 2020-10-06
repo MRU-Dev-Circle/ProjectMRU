@@ -55,3 +55,9 @@
 - Place: New Delhi, India
 - Bio: CS Undergraduate Student @ University of Delghi
 - GitHub: [sudiptog81](https://github.com/sudiptog81)
+
+##### Name: [Ahmad Herzallah](https://github.com/AhmadHerzallah)
+
+- Place: Gaza, Palestine
+- Bio: Student at highschool learning Python
+- GitHub: [AhmadHerzallah](https://github.com/AhmadHerzallah)
