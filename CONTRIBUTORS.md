@@ -1,4 +1,5 @@
 ## USE THIS FORMAT
+
 ##### Name: [YOUR NAME](GitHub link)
 
 - Place: City, State, Country
@@ -6,7 +7,6 @@
 - GitHub: [GitHub account name](GitHub link)
 
 ### DONT REMOVE ANYONE JUST ADD YOURS
-
 
 ##### Name: c0sm0s(https://github.com/minnonymous/)
 
@@ -35,10 +35,11 @@
 ##### Name: [Chandni Bhatia](https://github.com/Chandni-bhatia)
 
 - Place: Gurugram, Haryana, India
-- Bio: student 
+- Bio: student
 - GitHub: [Chandni-bhatia](https://github.com/Chandni-bhatia)
 
 #### Name: [Advait Dhingra](https://github.com/AdvaitDhingra)
+
 - Place: Germany
 - Bio: Nah, I prefer physics
 - Github: [AdvaitDhingra](https://github.com/AdvaitDhingra)
@@ -48,3 +49,9 @@
 - Place: Faridabad, Haryana, India
 - Bio: module
 - GitHub: [zerodays](https://github.com/zerodays39)
+
+##### Name: [Sudipto Ghosh](https://github.com/sudiptog81)
+
+- Place: New Delhi, India
+- Bio: CS Undergraduate Student @ University of Delghi
+- GitHub: [sudiptog81](https://github.com/sudiptog81)
