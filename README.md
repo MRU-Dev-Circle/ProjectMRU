@@ -6,6 +6,8 @@ __Manav Rachna University Hacktober Fest 2020__
 ![](https://badgen.net/badge/icon/git?icon=git&label)
 ![](https://badgen.net/badge/icon/github?icon=github&label)
 ![](https://img.shields.io/badge/For-first--timer-green)
+![](https://img.shields.io/badge/hacktoberfest-2020-red)
+![](https://img.shields.io/badge/Project-MRU-yellowgreen)
 ![3](https://user-images.githubusercontent.com/38182673/94948866-a9fb7c80-04fd-11eb-8b5c-3bca46cc1f5b.png)
 
 <!-- toc -->
