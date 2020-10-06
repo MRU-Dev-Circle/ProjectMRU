@@ -1,6 +1,10 @@
 # Project MRU💻🏡
 __Manav Rachna University Hacktober Fest 2020__
 
+![](https://visitor-badge.glitch.me/badge?page_id=c0sm0void.ProjectMRU)
+![](https://badgen.net/badge/icon/awesome?icon=awesome&label)
+![](https://badgen.net/badge/icon/git?icon=git&label)
+![](https://badgen.net/badge/icon/github?icon=github&label)
 ![3](https://user-images.githubusercontent.com/38182673/94948866-a9fb7c80-04fd-11eb-8b5c-3bca46cc1f5b.png)
 
 <!-- toc -->
