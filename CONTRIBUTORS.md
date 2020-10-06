@@ -61,3 +61,9 @@
 - Place: Gaza, Palestine
 - Bio: Student at highschool learning Python
 - GitHub: [AhmadHerzallah](https://github.com/AhmadHerzallah)
+
+##### Name: [Randy](https://github.com/randy1369)
+
+- Place: Hyd,Telangana,India
+- Bio: learning Python and ML
+- GitHub: [randy1369](https://github.com/randy1369)
