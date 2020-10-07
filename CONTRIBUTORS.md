@@ -67,3 +67,9 @@
 - Place: Hyd,Telangana,India
 - Bio: learning Python and ML
 - GitHub: [randy1369](https://github.com/randy1369)
+
+##### Name: [Gaurav](https://github.com/Gauravsaha-97)
+
+- Place: Kolkata, West Bengal, India
+- Bio: B.Tech Graduate from RCC Institute of Information Technology
+- GitHub: [Gauravsaha-97](https://github.com/Gauravsaha-97)
