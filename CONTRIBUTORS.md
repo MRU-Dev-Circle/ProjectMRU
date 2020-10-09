@@ -8,7 +8,7 @@
 
 ### DONT REMOVE ANYONE JUST ADD YOURS
 
-##### Name: c0sm0s(https://github.com/minnonymous/)
+##### Name: [c0sm0s](https://github.com/minnonymous/)
 
 - Place: New Delhi, India
 - Bio: void();
