@@ -74,6 +74,12 @@
 - Bio: B.Tech Graduate from RCC Institute of Information Technology
 - GitHub: [Gauravsaha-97](https://github.com/Gauravsaha-97)
 
+##### Name: Emflux(https://github.com/Mrinmoy99/)
+
+- Place: Faridabad, India
+- Bio: Aspiring data analyst $$ ML & AI Enthusiast $$ Open
+- GitHub: Mrinmoy99(https://github.com/Mrinmoy99/)
+
 ##### Name: [RishabhDhiman99](https://github.com/RishabhDhiman99/)
 
 - Place: Faridabad,Haryana,India
