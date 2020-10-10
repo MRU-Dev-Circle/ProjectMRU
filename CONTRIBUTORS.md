@@ -79,3 +79,10 @@
 - Place: Faridabad,Haryana,India
 - Bio: Student | Machine Learning and Data Science Enthusiast | Programmer
 - GitHub: RishabhDhiman99(https://github.com/RishabhDhiman99/)
+
+##### Name: [abhyuday12](https://github.com/abhyuday12)
+
+- Place: Firozabad, Uttar Pradesh,India
+- Bio: Cyber Security Analyst
+- GitHub: abhyuday12(https://github.com/abhyuday12)
+
