@@ -73,3 +73,9 @@
 - Place: Kolkata, West Bengal, India
 - Bio: B.Tech Graduate from RCC Institute of Information Technology
 - GitHub: [Gauravsaha-97](https://github.com/Gauravsaha-97)
+
+##### Name: [RishabhDhiman99](https://github.com/RishabhDhiman99/)
+
+- Place: Faridabad,Haryana,India
+- Bio: Student | Machine Learning and Data Science Enthusiast | Programmer
+- GitHub: RishabhDhiman99(https://github.com/RishabhDhiman99/)
