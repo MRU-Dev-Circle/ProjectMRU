@@ -92,3 +92,10 @@
 - Bio: Cyber Security Analyst
 - GitHub: abhyuday12(https://github.com/abhyuday12)
 
+
+
+##### Name: [Vipul](https://github.com/vipuljain96)
+
+- Place: Agra, Uttar Pradesh,India
+- Bio: Student | IIT BBS
+- GitHub: vipuljain96(https://github.com/vipuljain96)
