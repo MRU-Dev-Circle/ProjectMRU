@@ -1,6 +1,13 @@
 # Project MRU💻🏡
 __Manav Rachna University Hacktober Fest 2020__
 
+![](https://visitor-badge.glitch.me/badge?page_id=c0sm0void.ProjectMRU)
+![](https://badgen.net/badge/icon/awesome?icon=awesome&label)
+![](https://badgen.net/badge/icon/git?icon=git&label)
+![](https://badgen.net/badge/icon/github?icon=github&label)
+![](https://img.shields.io/badge/For-first--timer-green)
+![](https://img.shields.io/badge/hacktoberfest-2020-red)
+![](https://img.shields.io/badge/Project-MRU-yellowgreen)
 ![3](https://user-images.githubusercontent.com/38182673/94948866-a9fb7c80-04fd-11eb-8b5c-3bca46cc1f5b.png)
 
 <!-- toc -->
@@ -10,6 +17,7 @@ __Manav Rachna University Hacktober Fest 2020__
 - [What to do??](#what-to-do)
   * [How to contribute to this project](#how-to-contribute-to-this-project)
 - [Standards](#standards)
+- [More links](#more-links)
 
 <!-- tocstop -->
 
@@ -34,7 +42,7 @@ __Manav Rachna University Hacktober Fest 2020__
 ### How to contribute to this project
 Here are 3 quick and painless ways to contribute to this project:
 
-* Add your name to the `CONTRIBUTORS.md` file
+* Add your name to the `CONTRIBUTORS.md` file (DONT REPLACE OTHER NAME AND INFO)
 * Add a profile page to the `profiles` directory
 * Create a simple "Hello, World" script in a language of your choice
 
@@ -83,25 +91,15 @@ Add a `Your_Name.md` file to the `Profiles` directory. Use any combination of co
 
 ```markdown
 # Your Name
-
 ### Location
-
 Your City/Country
-
 ### Academics
-
 Your School
-
 ### Interests
-
 - Some Things You Like
-
 ### Projects
-
 - [My Project](GitHub Link) Short Description
-
 ### Profile Link
-
 [Your Name](GitHub Link)
 ```
 
@@ -110,7 +108,7 @@ Add a `hello_world_yourusername.xx` script to the `Scripts` directory in any lan
 
 ```Python
 // LANGUAGE: Python
-// AUTHOR: Minhajul Hossain
+// AUTHOR: c0sm0s
 // GITHUB: https://github.com/minnonymous
 
 print('Hello, python!')
@@ -129,5 +127,10 @@ In line with Hacktoberfest value #2 (Quantity is fun, quality is key), we have p
 
 Something that's clearly an attempt to simply +1 your pull request count for October.
 Last but not least, one pull request to fix a typo is fine, but 5 pull requests to remove a stray whitespace is not.
+
+## More links
+ - https://github.com/Mrinmoy99/MRU-Hacktoberfest-2020
+ - https://github.com/raviprakashdev/simplePythonProgram
+ - https://github.com/prkshtshrm4/hacktoberfest2020.git
 
 ## Happy hacking!🐱‍💻👾
