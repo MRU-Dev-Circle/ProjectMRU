@@ -129,8 +129,8 @@ Something that's clearly an attempt to simply +1 your pull request count for Oct
 Last but not least, one pull request to fix a typo is fine, but 5 pull requests to remove a stray whitespace is not.
 
 ## More links
- https://github.com/Mrinmoy99/MRU-Hacktoberfest-2020
- https://github.com/raviprakashdev/simplePythonProgram
- https://github.com/prkshtshrm4/hacktoberfest2020.git
+ - https://github.com/Mrinmoy99/MRU-Hacktoberfest-2020
+ - https://github.com/raviprakashdev/simplePythonProgram
+ - https://github.com/prkshtshrm4/hacktoberfest2020.git
 
 ## Happy hacking!🐱‍💻👾
