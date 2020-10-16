@@ -101,3 +101,9 @@
 - Place: Faridabad, Haryana, India
 - Bio: void();
 - GitHub: Cyberghost999(https://github.com/Cyberghost999/)
+
+##### Name: [klokar](https://github.com/natalijamitic/)
+
+- Place: Belgrade, Serbia
+- Bio: void();
+- GitHub: natalijamitic(https://github.com/natalijamitic/)
