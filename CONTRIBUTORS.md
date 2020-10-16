@@ -101,3 +101,8 @@
 - Place: Faridabad, Haryana, India
 - Bio: void();
 - GitHub: Cyberghost999(https://github.com/Cyberghost999/)
+
+##### Name: [Jim Morel](https://github.com/JimLynx)
+- Place: Ballinrobe, Co.Mayo, Ireland
+- Bio: Student | Code Institute
+- GitHub: [JimLynx](https://github.com/JimLynx)
