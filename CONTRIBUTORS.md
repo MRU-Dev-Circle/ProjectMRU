@@ -102,6 +102,12 @@
 - Bio: void();
 - GitHub: Cyberghost999(https://github.com/Cyberghost999/)
 
+##### Name: [klokar](https://github.com/natalijamitic/)
+
+- Place: Belgrade, Serbia
+- Bio: void();
+- GitHub: natalijamitic(https://github.com/natalijamitic/)
+
 ##### Name: [Jim Morel](https://github.com/JimLynx)
 - Place: Ballinrobe, Co.Mayo, Ireland
 - Bio: Student | Code Institute
