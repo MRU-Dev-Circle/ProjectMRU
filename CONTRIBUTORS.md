@@ -4,13 +4,15 @@
 
 - Place: New Delhi, India
 - Bio: void();
-- GitHub: minnonymous(https://github.com/minnonymous/)
+- GitHub: [minnonymous](https://github.com/minnonymous/)
+- LinkedIn: [Minhajul Hossain](https://www.linkedin.com/in/minhajulhossain/)
 
 ##### Name: [c0sm0void](https://github.com/c0sm0void/)
 
 - Place: New Delhi, India
 - Bio: void();
 - GitHub: c0sm0void(https://github.com/c0sm0void/)
+- LinkedIn: [Minhajul Hossain](https://www.linkedin.com/in/minhajulhossain/)
 
 ##### Name: [Parthasarathi-EXT1NT](https://github.com/Parthasarathi-EXT1NT)
 
@@ -29,6 +31,7 @@
 - Place: City, State, Country
 - Bio: Who are you?
 - GitHub: [c0sm0s0](https://github.com/c0sm0s0)
+- LinkedIn: [Minhajul Hossain](https://www.linkedin.com/in/minhajulhossain/)
 
 ##### Name: [Chandni Bhatia](https://github.com/Chandni-bhatia)
 
