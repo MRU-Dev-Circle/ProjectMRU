@@ -107,3 +107,8 @@
 - Place: Belgrade, Serbia
 - Bio: void();
 - GitHub: natalijamitic(https://github.com/natalijamitic/)
+
+##### Name: [Jim Morel](https://github.com/JimLynx)
+- Place: Ballinrobe, Co.Mayo, Ireland
+- Bio: Student | Code Institute
+- GitHub: [JimLynx](https://github.com/JimLynx)
