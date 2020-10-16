@@ -84,6 +84,7 @@ Add your name to the `CONTRIBUTORS.md` file using the below convention:
 - Place: City, State, Country
 - Bio: Who are you?
 - GitHub: [GitHub account name](GitHub link)
+- LinkedIn : [LinkedIn name](LinkedIn link)
 ```
 
 #### 2. Add a profile page
