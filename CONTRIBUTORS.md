@@ -112,12 +112,20 @@
 - GitHub: natalijamitic(https://github.com/natalijamitic/)
 
 ##### Name: [Jim Morel](https://github.com/JimLynx)
+
 - Place: Ballinrobe, Co.Mayo, Ireland
 - Bio: Student | Code Institute
 - GitHub: [JimLynx](https://github.com/JimLynx)
 
 ##### Name: [Ansh Varun](https://github.com/anshcena)
+
 - Place: Lucknow, Uttar Pradesh, India
 - Bio: Frontend Developer | Work on Multi-platform Applications
 - GitHub: [Ansh Varun](https://github.com/anshcena)
 - LinkedIn: [Ansh Varun](https://www.linkedin.com/in/ansh-varun-147125107/)
+
+##### Name: [c0sz](https://github.com/c0sz/)
+
+- Place: Iran
+- Bio: void();
+- GitHub: [c0sz](https://github.com/c0sz/)
