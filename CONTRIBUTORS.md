@@ -87,6 +87,12 @@
 - Bio: Student | Machine Learning and Data Science Enthusiast | Programmer
 - GitHub: RishabhDhiman99(https://github.com/RishabhDhiman99/)
 
+#### Name: [Pragati2526](https://github.com/pragati2526)
+
+- Place: New Delhi,India
+- Bio: Student
+- GitHub: [Pragati2526](https://github.com/pragati2526)
+
 ##### Name: [abhyuday12](https://github.com/abhyuday12)
 
 - Place: Firozabad, Uttar Pradesh,India
