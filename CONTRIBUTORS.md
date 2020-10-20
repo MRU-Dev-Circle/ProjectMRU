@@ -129,3 +129,8 @@
 - Place: Iran
 - Bio: void();
 - GitHub: [c0sz](https://github.com/c0sz/)
+
+##### Name: [Anthony O' Brien](https://github.com/auxfuse)
+- Place: Waterford City, Ireland
+- Bio: Recent Graduate of Full Stack Development from Code Institute
+- GitHub: [Auxfuse](https://github.com/auxfuse)
