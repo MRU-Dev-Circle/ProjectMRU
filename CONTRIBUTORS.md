@@ -140,3 +140,8 @@
 - Place: Waterford City, Ireland
 - Bio: Recent Graduate of Full Stack Development from Code Institute
 - GitHub: [Auxfuse](https://github.com/auxfuse)
+
+##### Name: [Immessionate](https://github.com/immessionate)
+- Place: New Delhi, India
+- Bio: Software Development, Delhi University
+- GitHub: [Immessionate](https://github.com/immessionate)
