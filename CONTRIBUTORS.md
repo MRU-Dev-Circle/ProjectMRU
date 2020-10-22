@@ -145,3 +145,8 @@
 - Place: New Delhi, India
 - Bio: Software Development, Delhi University
 - GitHub: [Immessionate](https://github.com/immessionate)
+
+##### Name: [Pulkit Malhotra](https://github.com/pulkit1408)
+- Place: New Delhi, India
+- Bio: Junior Data Associate
+- GitHub: [pulkit1408](https://github.com/pulkit1408)
