@@ -150,3 +150,9 @@
 - Place: New Delhi, India
 - Bio: Junior Data Associate
 - GitHub: [pulkit1408](https://github.com/pulkit1408)
+
+##### Name: [Sam Laubscher](https://github.com/samlaubscher)
+- Place: Bristol, England, UK
+- Bio: Full Stack developer student currently studying at Code Institute
+- GitHub: [samlaubscher](https://github.com/samlaubscher)
+- LinkedIn: [Sam Laubscher](https://www.linkedin.com/in/sam-laubscher-559a4215b/)
