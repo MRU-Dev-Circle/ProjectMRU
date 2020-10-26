@@ -1,5 +1,11 @@
 ### DONT REMOVE ANYONE JUST ADD YOURS
 
+##### Name: [Sal Asero](https://github.com/Guberlo/)
+
+- Place: Catania, Italy
+- Bio: Student @ University of Catania;
+- GitHub: [Guberlo](https://github.com/Guberlo/)
+
 ##### Name: [c0sm0s](https://github.com/minnonymous/)
 
 - Place: New Delhi, India
