@@ -162,3 +162,8 @@
 - Bio: Full Stack developer student currently studying at Code Institute
 - GitHub: [samlaubscher](https://github.com/samlaubscher)
 - LinkedIn: [Sam Laubscher](https://www.linkedin.com/in/sam-laubscher-559a4215b/)
+
+#### Name: [LKM Sasanga](https://github.com/lkmSasanga)
+- Place: Galle, Sri Lanka
+- Bio: Undergraduate, University of Moratuwa
+- Github: [lkmSasanga](https://github.com/lkmSasanga)
