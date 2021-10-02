@@ -1,8 +1,7 @@
 # Project MRU💻🏡
 __Manav Rachna University Hacktober Fest 2021__
-__"Open source is changing the world – one contribution at a time"__
 
-![](https://visitor-badge.glitch.me/badge?page_id=c0sm0void.ProjectMRU)
+![Visitor Count](https://profile-counter.glitch.me/c0sm0void/count.svg)
 ![](https://badgen.net/badge/icon/awesome?icon=awesome&label)
 ![](https://badgen.net/badge/icon/git?icon=git&label)
 ![](https://badgen.net/badge/icon/github?icon=github&label)
