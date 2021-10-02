@@ -1,5 +1,15 @@
 ### DONT REMOVE ANYONE JUST ADD YOURS
 
+##### Name: [sample](https://github.com/<sample>/)
+
+- Place: sample
+- Bio: sample
+- GitHub: [sample](https://github.com/<sample>/)
+- LinkedIn: [sample](https://www.linkedin.com/<sample>/)
+
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------2020--------------------------------------------------
+
 ##### Name: [Sal Asero](https://github.com/Guberlo/)
 
 - Place: Catania, Italy
@@ -172,3 +182,14 @@
 - Place: kaohsiung, Taiwan
 - Bio: Frontend developer
 - Github: [superTO](https://github.com/superTO)
+
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------2021--------------------------------------------------
+
+##### Name: [c0sm0void](https://github.com/c0sm0void/)
+
+- Place: New Delhi, India
+- Bio: void();
+- GitHub: c0sm0void(https://github.com/c0sm0void/)
+- LinkedIn: [Minhajul Hossain](https://www.linkedin.com/in/minhajulhossain/)
+
