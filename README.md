@@ -74,6 +74,7 @@ git push origin branch-name
 * __Star this repository__ if you had fun!
 
 ### Choose from these tasks
+(all three tasks need to be done)
 #### 1. Add your name
 Add your name to the `CONTRIBUTORS.md` file using the below convention:
 
