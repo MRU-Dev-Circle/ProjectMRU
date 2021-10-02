@@ -1,5 +1,6 @@
 # Project MRU💻🏡
-__Manav Rachna University Hacktober Fest 2020__
+__Manav Rachna University Hacktober Fest 2021__
+__"Open source is changing the world – one contribution at a time"__
 
 ![](https://visitor-badge.glitch.me/badge?page_id=c0sm0void.ProjectMRU)
 ![](https://badgen.net/badge/icon/awesome?icon=awesome&label)
@@ -8,7 +9,7 @@ __Manav Rachna University Hacktober Fest 2020__
 ![](https://img.shields.io/badge/For-first--timer-green)
 ![](https://img.shields.io/badge/hacktoberfest-2020-red)
 ![](https://img.shields.io/badge/Project-MRU-yellowgreen)
-![3](https://user-images.githubusercontent.com/38182673/94948866-a9fb7c80-04fd-11eb-8b5c-3bca46cc1f5b.png)
+![3](https://user-images.githubusercontent.com/38182673/135718182-c4487e20-985b-49da-9b67-57c30e54642d.png)
 
 <!-- toc -->
 
@@ -22,22 +23,20 @@ __Manav Rachna University Hacktober Fest 2020__
 <!-- tocstop -->
 
 ## About💬
-- __Manav Rachna University__ hosting an online event __Project MRU (Hacktoberfest 2020)__ brought to you by DigitalOcean in partnership with Dev & Intel — is a month-long celebration of open-source software.
+- __Manav Rachna University__ hosting an online event __Project MRU (Hacktoberfest 2021)__ brought to you by DigitalOcean in partnership with Dev & Intel — is a month-long celebration of open-source software.
 - Maintainers are invited to guide would-be contributors towards issues that will help move the project forward, and contributors get the opportunity to give back to both projects they like and others they've just discovered.
 
 # ✨No contribution is too small✨
 
 ## Steps and Rewards🎁
 - Step1: Sign up on the [Hacktoberfest site](https://hacktoberfest.digitalocean.com). To qualify for the official limited edition Hacktoberfest shirt, you must register and make four pull requests between October 1-31.
-- Step2: After the first step, register yourself and check in at [Project MRU, MLH site](https://organize.mlh.io/participants/events/4772-project-mru-hacktober-fest)
-- Step3: Join our [Slack channel](http://bit.ly/projectmru-slack) for further event details.
+- Step2: After the first step, join our [Discord Server](https://discord.gg/NmuJu9eyhs) for further event details..
 - Connect with other Hacktoberfest participants by using @DigitalOcean, @hacktoberfest, #hacktoberfest on your social media platform of choice.
-- New to DigitalOcean? Receive USD $100 in infrastructure credit at https://do.co/hacktoberfest100.
 
 ## What to do??💪
-- To earn your Hacktoberfest tee or tree reward, you must register and make four valid pull requests (PRs) between October 1-31 (in any time zone). - PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. 
+- To earn your Hacktoberfest tee or tree reward, you must register and make four valid pull requests (PRs) between October 1-31 (in any time zone). 
+- PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. 
 - If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate.
-- This year, the first 70,000 participants who successfully complete the challenge will be eligible to receive a prize.
 
 ### How to contribute to this project
 Here are 3 quick and painless ways to contribute to this project:
@@ -130,8 +129,6 @@ Something that's clearly an attempt to simply +1 your pull request count for Oct
 Last but not least, one pull request to fix a typo is fine, but 5 pull requests to remove a stray whitespace is not.
 
 ## More links
- - https://github.com/Mrinmoy99/MRU-Hacktoberfest-2020
- - https://github.com/raviprakashdev/simplePythonProgram
- - https://github.com/prkshtshrm4/hacktoberfest2020.git
+- coming soon!
 
 ## Happy hacking!🐱‍💻👾
