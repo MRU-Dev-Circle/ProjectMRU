@@ -7,7 +7,7 @@ __"Open source is changing the world – one contribution at a time"__
 ![](https://badgen.net/badge/icon/git?icon=git&label)
 ![](https://badgen.net/badge/icon/github?icon=github&label)
 ![](https://img.shields.io/badge/For-first--timer-green)
-![](https://img.shields.io/badge/hacktoberfest-2020-red)
+![](https://img.shields.io/badge/hacktoberfest-2021-red)
 ![](https://img.shields.io/badge/Project-MRU-yellowgreen)
 ![3](https://user-images.githubusercontent.com/38182673/135718182-c4487e20-985b-49da-9b67-57c30e54642d.png)
 
