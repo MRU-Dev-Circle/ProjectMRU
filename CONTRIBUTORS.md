@@ -195,3 +195,13 @@
 - GitHub: c0sm0void(https://github.com/c0sm0void/)
 - LinkedIn: [Minhajul Hossain](https://www.linkedin.com/in/minhajulhossain/)
 
+
+##### Name: [Alisha Chauhan](https://github.com/alishaac)
+
+- Place: Himachal Pradesh, India
+- Bio: Pursuing BE CSE,TIET . Learning Webdevelopment
+- GitHub: [alishaac](https://github.com/alishaac)
+- LinkedIn: [Alisha Chauhan](https://www.linkedin.com/in/alisha-chauhan-7aa309203/)
+--------------------------------------------------2021--------------------------------------------------
+
+--------------------------------------------------2021--------------------------------------------------
