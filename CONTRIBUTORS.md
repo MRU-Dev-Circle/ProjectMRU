@@ -207,3 +207,10 @@
 - GitHub: [imsushant12](https://github.com/imsushant12)
 - LinkedIn: [Sushant Gaurav](https://www.linkedin.com/in/sushant-gaurav)
 
+##### Name: [Rupali Singh](https://github.com/rupalisingh)
+
+- Place: Mumbai, India
+- Bio: Software Developer;
+- GitHub: [rupalisingh](https://github.com/rupalisingh)
+- LinkedIn: [Rupali Singh](https://www.linkedin.com/in/rupali-singh-452154156/)
+
