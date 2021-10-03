@@ -195,6 +195,10 @@
 - GitHub: c0sm0void(https://github.com/c0sm0void/)
 - LinkedIn: [Minhajul Hossain](https://www.linkedin.com/in/minhajulhossain/)
 
+#### Name: [Bhavika-Gianey](https://github.com/Bhavika-Gianey)
+- Place: Rajasthan, India
+- Bio: Software Developer
+- Github: [Bhavika-Gianey](https://github.com/Bhavika-Gianey)
 
 ##### Name: [Sushant Gaurav](https://github.com/imsushant12)
 
@@ -202,3 +206,4 @@
 - Bio: void();
 - GitHub: [imsushant12](https://github.com/imsushant12)
 - LinkedIn: [Sushant Gaurav](https://www.linkedin.com/in/sushant-gaurav)
+
