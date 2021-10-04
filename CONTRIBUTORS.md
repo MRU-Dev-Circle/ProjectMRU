@@ -223,4 +223,9 @@
 - Bio: pro
 - GitHub: [minproton](https://github.com/minproton)
 
+##### Name: [sanchitbajaj02](https://github.com/sanchitbajaj02)
 
+- Place: Delhi, India
+- Bio: JavaScript Developer
+- GitHub: [sanchitbajaj02](https://github.com/sanchitbajaj02)
+- LinkedIn: [Sanchit Bajaj](https://www.linkedin.com/in/sanchitbajaj02)
