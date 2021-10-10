@@ -28,10 +28,10 @@ __Manav Rachna University Hacktober Fest 2021__
 # ✨No contribution is too small✨
 
 ## Steps and Rewards🎁
-- Step1: Sign up on the [Hacktoberfest](https://hacktoberfest.digitalocean.com). To qualify for the official limited edition Hacktoberfest shirt, you must register and make four pull requests between October 1-31.
+- Step1: Sign up on the [Hacktoberfest](https://hacktoberfest.digitalocean.com). To qualify for the official limited edition Hacktoberfest shirt**, you must register and make four pull requests between October 1-31.
 - Step2: After the first step, join our [Discord Server](https://discord.gg/NmuJu9eyhs) for further event details..
 - Connect with other Hacktoberfest participants by using @DigitalOcean, @hacktoberfest, #hacktoberfest on your social media platform of choice.
-
+** this Repo is just for educational purpose (your PR wont be valid for Hacktoberfest swag)
 ## What to do??💪
 - To earn your Hacktoberfest tee or tree reward, you must register and make four valid pull requests (PRs) between October 1-31 (in any time zone). 
 - PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. 

@@ -195,6 +195,18 @@
 - GitHub: c0sm0void(https://github.com/c0sm0void/)
 - LinkedIn: [Minhajul Hossain](https://www.linkedin.com/in/minhajulhossain/)
 
+##### Name: [SarthakSharma660](https://github.com/SarthakSharma660)
+
+- Place: Gurgaon, Haryana, India
+- Bio: College, new to programming
+- GitHub: SarthakSharma660(https://github.com/SarthakSharma660)
+- LinkedIn: [Sarthak Sharma](https://www.linkedin.com/in/sarthak-sharma-1274b5156/)
+
+#### Name: [Bhavika-Gianey](https://github.com/Bhavika-Gianey)
+
+- Place: Rajasthan, India
+- Bio: Software Developer
+- Github: [Bhavika-Gianey](https://github.com/Bhavika-Gianey)
 
 ##### Name: [Sushant Gaurav](https://github.com/imsushant12)
 
@@ -202,6 +214,18 @@
 - Bio: void();
 - GitHub: [imsushant12](https://github.com/imsushant12)
 - LinkedIn: [Sushant Gaurav](https://www.linkedin.com/in/sushant-gaurav)
+
+##### Name: [proton](https://github.com/minproton)
+
+- Place: Iran
+- Bio: pro
+- GitHub: [minproton](https://github.com/minproton)
+
+##### Name: [rupalisingh](https://github.com/rupalisingh)
+
+- Place: India
+- Bio: Developer
+- GitHub: [rupalisingh](https://github.com/rupalsingh)
 
 ##### Name: [Viraj](https://github.com/Eureka-Viraj)
 
