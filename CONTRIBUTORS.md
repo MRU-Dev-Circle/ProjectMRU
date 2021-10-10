@@ -233,3 +233,10 @@
 - Bio: void();
 - GitHub: [Eureka-Viraj](https://github.com/Eureka-Viraj)
 - LinkedIn: [Viraj](https://www.linkedin.com/in/viraj-deshpande-9009851a3/)
+
+##### Name: [sanchitbajaj02](https://github.com/sanchitbajaj02)
+
+- Place: Delhi, India
+- Bio: JavaScript Developer
+- GitHub: [sanchitbajaj02](https://github.com/sanchitbajaj02)
+- LinkedIn: [Sanchit Bajaj](https://www.linkedin.com/in/sanchitbajaj02)
