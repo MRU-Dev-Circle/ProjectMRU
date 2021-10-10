@@ -223,4 +223,11 @@
 - Bio: pro
 - GitHub: [minproton](https://github.com/minproton)
 
+##### Name: [rupalisingh](https://github.com/rupalisingh)
+
+- Place: India
+- Bio: Developer
+- GitHub: [rupalisingh](https://github.com/rupalsingh)
+
+
 
