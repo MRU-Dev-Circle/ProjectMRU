@@ -17,7 +17,7 @@ __Manav Rachna University Hacktober Fest 2021__
 - [What to do??](#what-to-do)
   * [How to contribute to this project](#how-to-contribute-to-this-project)
 - [Standards](#standards)
-- [More links](#more-links)
+- [Not a first timer? Try these](#not-a-first-timer?-try-these)
 
 <!-- tocstop -->
 
@@ -128,7 +128,9 @@ In line with Hacktoberfest value #2 (Quantity is fun, quality is key), we have p
 Something that's clearly an attempt to simply +1 your pull request count for October.
 Last but not least, one pull request to fix a typo is fine, but 5 pull requests to remove a stray whitespace is not.
 
-## More links
-- coming soon!
+## Not a first timer? Try these
+- [ReVot](https://github.com/c0sm0void/ReVot)
+- [Recover_Linux](https://github.com/c0sm0void/Recover_Linux)
+- [RAMbo](https://github.com/c0sm0void/RAMbo)
 
 ## Happy hacking!🐱‍💻👾
