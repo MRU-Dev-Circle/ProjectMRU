@@ -17,7 +17,7 @@ __Manav Rachna University Hacktober Fest 2021__
 - [What to do??](#what-to-do)
   * [How to contribute to this project](#how-to-contribute-to-this-project)
 - [Standards](#standards)
-- [Not a first timer? Try these](#not-a-first-timer?-try-these)
+- [Not a first timer? Try these](#not-a-first-timer-try-these)
 
 <!-- tocstop -->
 
